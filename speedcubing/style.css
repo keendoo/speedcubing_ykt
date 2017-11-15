@@ -1,0 +1,89 @@
+body {
+    background: #ebebeb;
+}
+.header {
+    background-image: url(images.jpg);
+    height: 170px;
+    width: 1350px;
+    opacity: 0.75;
+    padding-top: 20px;
+    box-sizing: border-box;
+    display: flex;
+}
+.speed {
+    color: #50a1ff;
+    font-size: 30px;
+    margin-left: 600px;
+}
+.cuber {
+    color: #ff0000;
+    font-size: 30px;
+}
+.ykt {
+    color: #ffffff;
+    font-size: 30px;
+}
+.main {
+    display: flex;
+    height: 300px;
+}
+.manual {
+    width: 300px;
+    height: 300px;
+}
+.manual:hover {
+    width: 1000px;
+    height: 1000px
+}
+.manual2 {
+    width: 300px;
+    height: 300px;
+    margin-left: 50px;
+}
+.manual2:hover {
+    width: 700px;
+    height: 700px;
+}
+.manual3 {
+    width: 300px;
+    height: 300px;
+    margin-left: 50px;
+}
+.main p {
+    font-size: 15px;
+    width: 340px;
+    color: purple;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1350px
+}
+.line {
+    background: #50a1ff;
+    height: 50px;
+    padding-left: 175px;
+    display: flex;
+    color: white;
+    font-size: 13px
+}
+.line h2 {
+    margin-left: 60px;
+}
+.flex a {
+    text-decoration: none;
+}
+.line a {
+    text-decoration: none;
+}
+.text {
+    background: #68dec8;
+    height: 25px;
+    text-align: center;
+    font-size: 22px;
+    color: #ea3636;
+    font-family: arial
+}
+.text p {
+    margin: 0
+}
